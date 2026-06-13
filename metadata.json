@@ -1,0 +1,6 @@
+{
+  "name": "Motu Patlu Kids Adventure",
+  "description": "An interactive, animated adventure game suite for kids featuring mini-games with Motu and Patlu in Furfuri Nagar. Play Samosa Catching, Balloon Popping, and Coconut Trapping to earn stars!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
